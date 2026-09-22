@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://amer1777.github.io/Abdul-Rab/sitemap.xml
